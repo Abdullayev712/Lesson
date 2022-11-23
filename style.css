@@ -1,0 +1,15 @@
+.card{
+    width: 600px;
+    height: 400px;
+    background-color: dodgerblue;
+}
+.card h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.card p{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
